@@ -1,2 +1,1 @@
-# ios-network-layer
-📦Network layer for iOS projects • (early 2020)
+# Networking layer for iOS projects
